@@ -8,7 +8,9 @@ const words = {
     "c",
     "react",
     "electron",
-    "baltie"
+    "baltie",
+    "django",
+    "rubyonrails"
   ],
   "szkoła": [
     "matma",
@@ -20,13 +22,23 @@ const words = {
     "hiszpański",
     "francuski",
     "classroom",
-    "informatyka"
+    "informatyka",
+    "nauczyciel",
+    "uczeń",
+    "oceny",
+    "przerwa",
+    "wakacje"
   ],
   "socialmedia": [
     "facebook",
     "instagram",
     "tiktok",
-    "youtube"
+    "youtube",
+    "hashtag",
+    "post",
+    "like",
+    "obserwowanie",
+    "relacje"
   ],
   "jedzenie": [
     "chleb",
@@ -34,6 +46,8 @@ const words = {
     "ser",
     "mleko",
     "pomidor",
-    "jabłko"
+    "jabłko",
+    "gruszka",
+    "szynka"
   ]
 }
